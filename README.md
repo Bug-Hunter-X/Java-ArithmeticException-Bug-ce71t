@@ -1,0 +1,1 @@
+This repository contains a simple Java program that demonstrates an uncommon bug: the ArithmeticException. This exception occurs when dividing by zero. The solution demonstrates how to handle this exception using a try-catch block.
